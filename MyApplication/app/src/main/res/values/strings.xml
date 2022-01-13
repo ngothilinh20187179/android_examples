@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user_name">User Name</string>
+    <string name="name">Name</string>
+    <string name="photo">photo</string>
+    <string name="details_information_of_this_user">Details information of this user</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="company">Company</string>
+    <string name="username">UserName</string>
+</resources>
